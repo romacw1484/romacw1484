@@ -1,4 +1,4 @@
-**Hi, I’m @romacw1484 (Junior studying Comp Sci at Fordham University)**
+**Hi, I’m @romacw1484 (Senior studying Comp Sci and Finance at Fordham University)**
 
 - I’m interested in computer science, finance, and the outdoors
 - I am currently learning how to use various python libraries (panda, NumPy) and building my own websites with functional backends
