@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Let’s Connect
-- Portfolio: *https://romacw1484.github.io/Peronal-Portfolio-Site**
+- Portfolio: *https://romacw1484.github.io/Peronal-Portfolio-Site*
 - LinkedIn: [linkedin.com/in/williamromac](https://www.linkedin.com/in/williamromac/)  
 - Email: **[wromac@fordham.edu] , 561-271-5144**  
 
