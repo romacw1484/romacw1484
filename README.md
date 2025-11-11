@@ -2,7 +2,7 @@
 
 🎓 Senior at **Fordham University**  
 📚 Studying **Computer Science** with a **Finance minor**  
-💡 Passionate about **finance, data-driven tools, and building useful software**  
+💡 Enjoy learning about **finance, data-driven tools, and building projects**  
 
 ---
 
