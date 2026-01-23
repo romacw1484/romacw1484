@@ -1,4 +1,4 @@
-# 👋 Hi, I'm William Romac  
+# Hi, I'm William Romac  
 
 🎓 Senior at **Fordham University**  
 📚 Studying **Computer Science** with a **Finance minor**  
@@ -15,7 +15,7 @@
 - **Languages**: Python, Java, C++, SQL, JavaScript  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Flask, yfinance 
 - **Databases**: PostgreSQL, MySQL, SQLite  
-- **Other**: Git, Docker, Heroku, Vercel
+- **Other**: Git, Docker, Heroku, 
 
 ---
 
@@ -25,12 +25,9 @@
 - Data visualization and dashboard design  
 
 ---
-
-## 📫 Let’s Connect
-- Portfolio: *https://romacw1484.github.io/Peronal-Portfolio-Site*
+- Personal Site: *https://romacw1484.github.io/Peronal-Portfolio-Site*
 - LinkedIn: [linkedin.com/in/williamromac](https://www.linkedin.com/in/williamromac/)  
-- Email: **[wromac@fordham.edu] , 561-271-5144**  
+- Email: **[william.romac@gmail.com]**
 
 ---
 
-> “Technology and finance are changing faster than ever — I’m excited to be building at the intersection of both.”  
