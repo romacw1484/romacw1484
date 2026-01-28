@@ -3,6 +3,7 @@
 🎓 Senior at **Fordham University**  
 📚 Studying **Computer Science** with a **Finance minor**  
 💡 Enjoy learning about **finance, data-driven tools, and building projects**  
+🏄‍♂️ For fun I enjoy spending time outdoors hiking, biking, running, and taking photos from time to time on some adventures. 
 
 ---
 
@@ -28,6 +29,5 @@
 - Personal Site: *https://romacw1484.github.io/Peronal-Portfolio-Site*
 - LinkedIn: [linkedin.com/in/williamromac](https://www.linkedin.com/in/williamromac/)  
 - Email: **[william.romac@gmail.com]**
-
 ---
 
